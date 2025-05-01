@@ -65,7 +65,7 @@ function Signup() {
       <div className="signup-content">
         {/* Left Section */}
         <div className="signup-welcome">
-          <h1 className="welcome-text">Create Account</h1>
+          <h1 className="welcome-text1">Create Account</h1>
         </div>
 
         {/* Right Section */}
